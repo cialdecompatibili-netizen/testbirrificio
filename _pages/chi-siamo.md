@@ -3,7 +3,7 @@ layout: page
 title: chi siamo
 nav: false
 permalink: /chi-siamo/
-description: Birrificio artigianale indipendente: birre non filtrate, degustazioni, visite guidate e forniture per eventi.
+description: Birrificio artigianale indipendente, con birre non filtrate, degustazioni, visite guidate e forniture per eventi.
 ---
 
 <style>

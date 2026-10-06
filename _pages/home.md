@@ -18,7 +18,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 seo_title: "{title} | Birrificio artigianale"
-seo_description: "Birrificio artigianale indipendente: birre non filtrate, ingredienti selezionati, visite guidate e degustazioni in birrificio."
+seo_description: "Birrificio artigianale indipendente con birre non filtrate, ingredienti selezionati, visite guidate e degustazioni in birrificio."
 ---
 
 <style>
