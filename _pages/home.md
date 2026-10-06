@@ -17,8 +17,8 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-seo_title: "{title} | Smart Web Agency"
-seo_description: "Web agency a Roma dal 2013: siti web, e-commerce, SEO, Google Ads e brand identity su misura per imprenditori, start up e PA. Prima consulenza gratuita, risposta entro 24 ore."
+seo_title: "{title} | Birrificio artigianale"
+seo_description: "Birrificio artigianale indipendente: birre non filtrate, ingredienti selezionati, visite guidate e degustazioni in birrificio."
 ---
 
 <style>
@@ -76,13 +76,13 @@ html[data-theme="dark"] .prj-home-more a{border-color:rgba(255,255,255,.3)}
 <!-- ===== MARTE END (html) ===== -->
 <canvas id="rete-cv" aria-hidden="true"></canvas>
 
-## Web Agency a Roma dal 2013, al fianco della crescita del tuo business.
+## Birra artigianale, fatta piano e bevuta con calma.
 
-Comunicazione, web marketing e sviluppo di piattaforme digitali: aiutiamo imprenditori, start up e grandi aziende a crescere, nel privato come nella Pubblica Amministrazione. Ogni progetto nasce da un'analisi su misura del business e degli obiettivi, combinando creatività e concretezza per ottenere risultati misurabili.
+Produciamo birre non filtrate e non pastorizzate con malti selezionati e luppoli freschi, in piccoli lotti. Dalla chiara beverina alla stout scura, ogni ricetta nasce in birrificio e matura il tempo che serve.
 
-Un team unico di professionisti coordina ogni fase, dalla strategia al risultato: siti, e-commerce, campagne, brand identity e applicativi su misura. Rispondiamo entro 24 ore, festivi esclusi, e la prima consulenza è gratuita.
+Il birrificio è aperto il fine settimana per degustazioni e visite guidate. Per gruppi e aziende organizziamo serate su prenotazione.
 
-**Vuoi far crescere il tuo business?** Scrivici su WhatsApp o richiedi un preventivo: costruiamo insieme la soluzione giusta per te.
+**Vuoi assaggiare le nostre birre?** Scrivici o passa in birrificio: ti facciamo provare la cotta del momento.
 
 </div>
 
