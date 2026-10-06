@@ -6,6 +6,6 @@ permalink: /contatti/
 nav_order: 20
 ---
 
-<p class="cf-intro">Hai un progetto in mente? Sito, e-commerce, SEO o pubblicità: raccontaci da dove parti e ti diciamo come possiamo aiutarti.</p>
+<p class="cf-intro">Vuoi prenotare una degustazione, una visita o un fusto per la tua festa? Scrivici: ti rispondiamo entro un giorno.</p>
 
 {% include contatti_form.liquid %}
